@@ -1,0 +1,106 @@
+#AUTOR/AUTORZY:
+#SERVICE 1:0:19:1F41:CA1:3:EB0000:0:0:0:plugin.video.directone:CT 1 PHA HD
+#SERVICE 1:0:19:1F42:CA1:3:EB0000:0:0:0:plugin.video.directone:CT 2 HD
+#SERVICE 1:0:19:3391:C9D:3:EB0000:0:0:0:plugin.video.directone:Nova HD
+#SERVICE 1:0:19:3392:C9D:3:EB0000:0:0:0:plugin.video.directone:Prima HD
+#SERVICE 1:0:19:3736:C8E:3:EB0000:0:0:0:plugin.video.directone:CANAL+ Action
+#SERVICE 1:0:1:1001:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport
+#SERVICE 1:0:1:1002:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 2
+#SERVICE 1:0:16:36F2:C8C:3:EB0000:0:0:0:plugin.video.directone:FILMBOX+ one
+#SERVICE 1:0:16:3CF9:C95:3:EB0000:0:0:0:plugin.video.directone:FILMBOX+ Love & Crime
+#SERVICE 1:0:19:1F43:CA1:3:EB0000:0:0:0:plugin.video.directone:CT 24 HD
+#SERVICE 1:0:19:1F44:CA1:3:EB0000:0:0:0:plugin.video.directone:CT sport HD
+#SERVICE 1:0:19:3395:C9D:3:EB0000:0:0:0:plugin.video.directone:Nova Cinema HD
+#SERVICE 1:0:19:3394:C9D:3:EB0000:0:0:0:plugin.video.directone:Nova Action HD
+#SERVICE 1:0:19:3722:C8E:3:EB0000:0:0:0:plugin.video.directone:Nova Fun HD
+#SERVICE 1:0:16:3723:C8E:3:EB0000:0:0:0:plugin.video.directone:Nova Lady
+#SERVICE 1:0:19:36E5:C8C:3:EB0000:0:0:0:plugin.video.directone:Prima MAX HD
+#SERVICE 1:0:19:3396:C9D:3:EB0000:0:0:0:plugin.video.directone:Prima COOL HD
+#SERVICE 1:0:19:36E8:C8C:3:EB0000:0:0:0:plugin.video.directone:Prima Zoom HD
+#SERVICE 1:0:19:36FF:C8C:3:EB0000:0:0:0:plugin.video.directone:CNN Prima News HD
+#SERVICE 1:0:19:36EC:C8C:3:EB0000:0:0:0:plugin.video.directone:Prima KRIMI HD
+#SERVICE 1:0:16:36EF:C8C:3:EB0000:0:0:0:plugin.video.directone:Prima Love
+#SERVICE 1:0:16:36EE:C8C:3:EB0000:0:0:0:plugin.video.directone:Prima Show
+#SERVICE 1:0:16:36ED:C8C:3:EB0000:0:0:0:plugin.video.directone:Prima STAR
+#SERVICE 1:0:19:335B:C93:3:EB0000:0:0:0:plugin.video.directone:Seznam.cz HD
+#SERVICE 1:0:19:3C2E:C90:3:EB0000:0:0:0:plugin.video.directone:FILMBOX+ Emotion
+#SERVICE 1:0:19:3CF5:C95:3:EB0000:0:0:0:plugin.video.directone:FILMBOX+ Hits
+#SERVICE 1:0:16:3C34:C90:3:EB0000:0:0:0:plugin.video.directone:FILMBOX+ Comedy
+#SERVICE 1:0:16:31C:C94:3:EB0000:0:0:0:plugin.video.directone:TV Barrandov
+#SERVICE 1:0:19:3359:C93:3:EB0000:0:0:0:plugin.video.directone:JOJ Cinema HD
+#SERVICE 1:0:16:36EA:C8C:3:EB0000:0:0:0:plugin.video.directone:CS Film
+#SERVICE 1:0:19:1F45:CA1:3:EB0000:0:0:0:plugin.video.directone:CT D/art HD
+#SERVICE 1:0:16:36E4:C8C:3:EB0000:0:0:0:plugin.video.directone:Paramount Network
+#SERVICE 1:0:19:3CF2:C95:3:EB0000:0:0:0:plugin.video.directone:Film+ HD
+#SERVICE 1:0:16:315:C94:3:EB0000:0:0:0:plugin.video.directone:AXN CZ
+#SERVICE 1:0:16:3D00:C95:3:EB0000:0:0:0:plugin.video.directone:AXN Black
+#SERVICE 1:0:16:3D01:C95:3:EB0000:0:0:0:plugin.video.directone:AXN White
+#SERVICE 1:0:16:36FB:C8C:3:EB0000:0:0:0:plugin.video.directone:AMC
+#SERVICE 1:0:19:3C2D:C90:3:EB0000:0:0:0:plugin.video.directone:Film Europe HD
+#SERVICE 1:0:19:3C3C:C90:3:EB0000:0:0:0:plugin.video.directone:Jednotka HD
+#SERVICE 1:0:19:3C3D:C90:3:EB0000:0:0:0:plugin.video.directone:Dvojka HD
+#SERVICE 1:0:16:3720:C8E:3:EB0000:0:0:0:plugin.video.directone:Markiza International
+#SERVICE 1:0:19:3350:C93:3:EB0000:0:0:0:plugin.video.directone:JOJ Family HD
+#SERVICE 1:0:19:3C3E:C90:3:EB0000:0:0:0:plugin.video.directone:RTVS 24 HD
+#SERVICE 1:0:19:1328:CA2:3:EB0000:0:0:0:plugin.video.directone:TA3 HD
+#SERVICE 1:0:19:303:C94:3:EB0000:0:0:0:plugin.video.directone:Nat Geo HD CZ
+#SERVICE 1:0:19:3CF1:C95:3:EB0000:0:0:0:plugin.video.directone:Viasat Nature HD
+#SERVICE 1:0:19:3CF0:C95:3:EB0000:0:0:0:plugin.video.directone:Viasat History HD
+#SERVICE 1:0:16:17AE:C82:3:EB0000:0:0:0:plugin.video.directone:Travelxp
+#SERVICE 1:0:19:305:C94:3:EB0000:0:0:0:plugin.video.directone:National Geographic Wild HD
+#SERVICE 1:0:19:310:C94:3:EB0000:0:0:0:plugin.video.directone:Spektrum HD
+#SERVICE 1:0:19:3CFF:C95:3:EB0000:0:0:0:plugin.video.directone:History HD
+#SERVICE 1:0:19:30F:C94:3:EB0000:0:0:0:plugin.video.directone:Love Nature HD
+#SERVICE 1:0:1:C30:1E78:71:820000:0:0:0:plugin.video.directone:Crime+Investigation
+#SERVICE 1:0:16:36E3:C8C:3:EB0000:0:0:0:plugin.video.directone:DocuBox
+#SERVICE 1:0:19:1BFD:C88:3:EB0000:0:0:0:plugin.video.directone:Nautical HD
+#SERVICE 1:0:19:3393:C9D:3:EB0000:0:0:0:plugin.video.directone:Nova Sport 1 HD
+#SERVICE 1:0:19:371E:C8E:3:EB0000:0:0:0:plugin.video.directone:Nova Sport 2 HD
+#SERVICE 1:0:19:36E6:C8C:3:EB0000:0:0:0:plugin.video.directone:Nova Sport 3 HD
+#SERVICE 1:0:19:36E7:C8C:3:EB0000:0:0:0:plugin.video.directone:Nova Sport 4 HD
+#SERVICE 1:0:19:372C:C8E:3:EB0000:0:0:0:plugin.video.directone:Nova Sport 5 HD
+#SERVICE 1:0:19:312:C94:3:EB0000:0:0:0:plugin.video.directone:Nova Sport 6 HD
+#SERVICE 1:0:19:334B:C93:3:EB0000:0:0:0:plugin.video.directone:Sport 1 HD
+#SERVICE 1:0:19:318:C94:3:EB0000:0:0:0:plugin.video.directone:Sport 2 HD
+#SERVICE 1:0:19:3C29:C90:3:EB0000:0:0:0:plugin.video.directone:Arena Sport 1 HD
+#SERVICE 1:0:19:3724:C8E:3:EB0000:0:0:0:plugin.video.directone:Arena Sport 2 HD
+#SERVICE 1:0:1:1003:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 3
+#SERVICE 1:0:1:1004:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 4
+#SERVICE 1:0:1:1005:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 5
+#SERVICE 1:0:1:1006:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 6
+#SERVICE 1:0:1:1007:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 7
+#SERVICE 1:0:1:1008:0:0:0:0:0:0:plugin.video.directone:CANAL+ Sport 8
+#SERVICE 1:0:1:17EA:C82:3:EB0000:0:0:0:plugin.video.directone:FightBox
+#SERVICE 1:0:16:3C37:C90:3:EB0000:0:0:0:plugin.video.directone:JimJam CZ
+#SERVICE 1:0:16:3CFB:C95:3:EB0000:0:0:0:plugin.video.directone:Minimax
+#SERVICE 1:0:1:7800:2C3:600:E080000:0:0:0:plugin.video.directone:ducktv
+#SERVICE 1:0:16:335C:C93:3:EB0000:0:0:0:plugin.video.directone:Nickelodeon CZ
+#SERVICE 1:0:16:36F0:C8C:3:EB0000:0:0:0:plugin.video.directone:Nick Jr Czech
+#SERVICE 1:0:16:36FC:C8C:3:EB0000:0:0:0:plugin.video.directone:Disney CZ
+#SERVICE 1:0:16:36F5:C8C:3:EB0000:0:0:0:plugin.video.directone:Cartoon Network
+#SERVICE 1:0:16:3C3A:C90:3:EB0000:0:0:0:plugin.video.directone:Retro Music TV
+#SERVICE 1:0:1:70:1:48:0:0:0:0:plugin.video.directone:REBEL
+#SERVICE 1:0:16:AA0:9DD0:16E:A00000:0:0:0:plugin.video.directone:360TuneBox
+#SERVICE 1:0:16:2B0E:AFB:BB:E080000:0:0:0:plugin.video.directone:OCKO
+#SERVICE 1:0:16:309:C94:3:EB0000:0:0:0:plugin.video.directone:OCKO STAR
+#SERVICE 1:0:1:69:1:48:0:0:0:0:plugin.video.directone:Ocko Black HD
+#SERVICE 1:0:1:68:1:48:0:0:0:0:plugin.video.directone:Ocko Expres HD
+#SERVICE 1:0:1:8:1964:13E:820000:0:0:0:plugin.video.directone:MTV 00s
+#SERVICE 1:0:1:6FF1:436:1:C00000:0:0:0:plugin.video.directone:MTV 80s
+#SERVICE 1:0:1:1FA:1B:2C0:E080000:0:0:0:plugin.video.directone:MTV Europe CZ
+#SERVICE 1:0:1:422B:2F44:13E:820000:0:0:0:plugin.video.directone:Mezzo
+#SERVICE 1:0:16:30D:C94:3:EB0000:0:0:0:plugin.video.directone:Stingray CMusic
+#SERVICE 1:0:1:b691:9d:a7c0:0:0:0:0:plugin.video.directone:Stingray iConcerts HD
+#SERVICE 1:0:1:1aa6:334:a7c0:0:0:0:0:plugin.video.directone:Stingray Classica HD
+#SERVICE 1:0:19:AA9:9DD0:16E:A00000:0:0:0:plugin.video.directone:Gametoon
+#SERVICE 1:0:1:1FD:17:3:130000:0:0:0:plugin.video.directone:English Club TV
+#SERVICE 1:0:19:328:3BC4:1:820000:0:0:0:plugin.video.directone:France 24 (in English)
+#SERVICE 1:0:19:17E2:C82:3:EB0000:0:0:0:plugin.video.directone:(18+) VIXEN HD
+#SERVICE 1:0:19:1C0C:C88:3:EB0000:0:0:0:plugin.video.directone:(18+) Penthouse Gold
+#SERVICE 1:0:1:778B:424:1:C00000:0:0:0:plugin.video.directone:(18+) Playboy TV HD
+#SERVICE 1:0:1:4206:2F44:13E:820000:0:0:0:plugin.video.directone:(18+) Dorcel TV HD
+#SERVICE 1:0:19:3EF:51A4:16E:A00000:0:0:0:plugin.video.directone:(18+) Dorcel XXX
+#SERVICE 1:0:1:4E75:CA8:3:EB0000:0:0:0:plugin.video.directone:Newsmax HD
+#SERVICE 1:0:16:36FD:C8C:3:EB0000:0:0:0:plugin.video.directone:ducktv
+#SERVICE 1:0:16:3701:C8C:3:EB0000:0:0:0:plugin.video.directone:JOJ Svet CZ
+#SERVICE 1:0:1:314:C94:3:EB0000:0:0:0:plugin.video.directone:Fishing and Hunting 

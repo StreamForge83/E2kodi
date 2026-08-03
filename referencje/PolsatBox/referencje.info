@@ -1,0 +1,213 @@
+#AUTOR/AUTORZY:
+#SERVICE 1:0:1:3ABD:514:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVP1
+#SERVICE 1:0:1:C22:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:TVP2
+#SERVICE 1:0:1:3391:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat
+#SERVICE 1:0:1:3393:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:TV4
+#SERVICE 1:0:16:15:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Warszawa
+#SERVICE 1:0:1:3DCD:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVN
+#SERVICE 1:0:1:3D66:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TV Puls
+#SERVICE 1:0:1:3399:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat News HD
+#SERVICE 1:0:1:1CBF:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat News Polityka
+#SERVICE 1:0:1:290C:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Wydarzenia 24
+#SERVICE 1:0:1:3333:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat News 2
+#SERVICE 1:0:1:339A:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:POLSAT 2 HD
+#SERVICE 1:0:1:C1D:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport 1
+#SERVICE 1:0:1:C24:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport 2
+#SERVICE 1:0:1:2913:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport 3
+#SERVICE 1:0:1:2911:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Fight HD
+#SERVICE 1:0:1:709:32C8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Premium 1
+#SERVICE 1:0:1:70A:32C8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Premium 2
+#SERVICE 1:0:1:C33:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Extra 1
+#SERVICE 1:0:1:C34:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Extra 2
+#SERVICE 1:0:1:3E2B:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Extra 3
+#SERVICE 1:0:1:3E2C:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Extra 4
+#SERVICE 1:0:1:643B:4BAB:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 1
+#SERVICE 1:0:1:85A5:58E8:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 2
+#SERVICE 1:0:1:3D69:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 1
+#SERVICE 1:0:1:3D6A:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 2
+#SERVICE 1:0:1:3D6B:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 3
+#SERVICE 1:0:1:3D6C:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 4
+#SERVICE 1:0:1:70F:32C8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 1 4K
+#SERVICE 1:0:1:3D56:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Motowizja
+#SERVICE 1:0:1:4284:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Games
+#SERVICE 1:0:1:3E24:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FightBox HD
+#SERVICE 1:0:1:3E23:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Golf Zone
+#SERVICE 1:0:1:1B:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:Fast&Fun
+#SERVICE 1:0:1:1E:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:GameToon
+#SERVICE 1:0:1:745F:0D23:0:860006:0:0:0:plugin.video.polsatbox_go_atv:InUltra 4K
+#SERVICE 1:0:1:3398:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Film
+#SERVICE 1:0:1:3E1F:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Film 2
+#SERVICE 1:0:1:1CAC:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Seriale
+#SERVICE 1:0:1:339B:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Super Polsat
+#SERVICE 1:0:1:3394:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:TV6
+#SERVICE 1:0:1:3A9F:514:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Cinemax HD
+#SERVICE 1:0:1:C29:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Cinemax 2 HD
+#SERVICE 1:0:1:21:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Paramount Network HD
+#SERVICE 1:0:1:3D5C:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVP Seriale
+#SERVICE 1:0:1:3D64:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Kino Polska
+#SERVICE 1:0:1:3D61:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FILMBOX+ One
+#SERVICE 1:0:19:3DD5:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Warner TV
+#SERVICE 1:0:1:1C8B:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat X
+#SERVICE 1:0:1:C25:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:AXN HD
+#SERVICE 1:0:1:1C87:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:AXN Black SD
+#SERVICE 1:0:1:1C86:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:AXN White SD
+#SERVICE 1:0:1:1133:2AF8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:BBC First
+#SERVICE 1:0:1:3AB7:514:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:AMC
+#SERVICE 1:0:1:3E26:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:13 Ulica
+#SERVICE 1:0:1:3E3E:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:SciFi Universal
+#SERVICE 1:0:1:10:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Comedy Central Extra
+#SERVICE 1:0:1:20:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Comedy Central Polska HD
+#SERVICE 1:0:1:C27:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:FX
+#SERVICE 1:0:1:C1F:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:FX Comedy
+#SERVICE 1:0:1:4290:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Epic Drama HD
+#SERVICE 1:0:1:3ABE:514:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Romance TV HD
+#SERVICE 1:0:1:423F:3DB8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Novela TV
+#SERVICE 1:0:1:3A9A:514:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Novelas+
+#SERVICE 1:0:1:290E:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:HBO HD
+#SERVICE 1:0:1:13F4:5DC:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:HBO 2 HD
+#SERVICE 1:0:1:13F9:5DC:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:HBO 3 HD
+#SERVICE 1:0:1:3D5D:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FILMBOX+ Hits
+#SERVICE 1:0:1:3D62:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FILMBOX+ Comedy
+#SERVICE 1:0:1:428A:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FILMBOX+ Festival
+#SERVICE 1:0:1:3D65:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FILMBOX+ Action
+#SERVICE 1:0:1:3D68:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:FILMBOX+ Emotion
+#SERVICE 1:0:1:427B:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Stopklatka
+#SERVICE 1:0:1:3D5E:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Puls 2
+#SERVICE 1:0:1:290B:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Film Cafe HD
+#SERVICE 1:0:1:1C8F:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Rodzina
+#SERVICE 1:0:1:9:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:NICKELODEON POLSKA
+#SERVICE 1:0:1:3:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:NICK JR
+#SERVICE 1:0:1:45:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:NickToons
+#SERVICE 1:0:1:13FC:5DC:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Teen Nick
+#SERVICE 1:0:1:32E0:190:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:MiniMini+
+#SERVICE 1:0:19:37AF:44C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TeleToon+
+#SERVICE 1:0:19:10E5:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Cartoon Network HD
+#SERVICE 1:0:19:10E4:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Cartoonito
+#SERVICE 1:0:1:7D9:22C4:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:BBC CBEEBIES
+#SERVICE 1:0:1:1CB6:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Disney Channel
+#SERVICE 1:0:1:2938:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Disney Junior
+#SERVICE 1:0:1:1CB5:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Disney XD
+#SERVICE 1:0:1:428E:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:4fun Kids
+#SERVICE 1:0:1:2:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Nick Music
+#SERVICE 1:0:1:1CB7:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat JIM JAM
+#SERVICE 1:0:1:C23:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Doku
+#SERVICE 1:0:1:3E21:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Reality
+#SERVICE 1:0:1:C30:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:CI Polsat HD
+#SERVICE 1:0:1:429D:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Fokus TV
+#SERVICE 1:0:1:C20:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Viasat History HD
+#SERVICE 1:0:1:1CCA:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Viasat Explore HD
+#SERVICE 1:0:1:2908:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Viasat Nature HD
+#SERVICE 1:0:19:377E:44C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Planete+
+#SERVICE 1:0:19:10DD:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Discovery Channel HD
+#SERVICE 1:0:19:3B6A:12C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Discovery Science HD
+#SERVICE 1:0:19:3B6B:12C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:DTX HD
+#SERVICE 1:0:19:10E0:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Discovery Life HD
+#SERVICE 1:0:19:3B69:12C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:ID HD
+#SERVICE 1:0:16:10DF:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Discovery Historia
+#SERVICE 1:0:1:C2F:1E78:71:820000:0:0:0:plugin.video.polsatbox_go_atv:History HD
+#SERVICE 1:0:1:3E22:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:History2 HD
+#SERVICE 1:0:19:3B66:12C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Animal Planet HD
+#SERVICE 1:0:19:3DD8:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Travel Channel HD
+#SERVICE 1:0:1:1134:2AF8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:BBC EARTH
+#SERVICE 1:0:1:13F6:5DC:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:National Geographic Wild
+#SERVICE 1:0:1:32DF:190:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:National Geographic
+#SERVICE 1:0:1:2907:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Nat Geo People HD
+#SERVICE 1:0:1:EC52:9FBA:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Love Nature 4K
+#SERVICE 1:0:1:1BF2:655B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Travelxp 4K
+#SERVICE 1:0:1:92C2:7E5C:0:860006:0:0:0:plugin.video.polsatbox_go_atv:My Zen 4K
+#SERVICE 1:0:1:C4C6:0C00:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Museum TV 4K
+#SERVICE 1:0:1:423D:3DB8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Water Planet
+#SERVICE 1:0:1:10:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:DocuBox
+#SERVICE 1:0:1:3D5B:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:CBS Reality
+#SERVICE 1:0:1:3396:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Cafe HD
+#SERVICE 1:0:1F:75:F002:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVN Style
+#SERVICE 1:0:19:10DE:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TLC HD
+#SERVICE 1:0:19:10EB:3E8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:HG TV
+#SERVICE 1:0:19:3DD9:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Food Network HD
+#SERVICE 1:0:19:377F:44C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Canal+ Kuchnia
+#SERVICE 1:0:1:7DB:22C4:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:BBC Lifestyle HD
+#SERVICE 1:0:1:3E1E:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:E!
+#SERVICE 1:0:1:13EF:5DC:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Canal+ Domo
+#SERVICE 1:0:1:3392:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Play HD
+#SERVICE 1:0:1:F:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:MTV POLSKA
+#SERVICE 1:0:1:7D6:22C4:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:BBC BRIT
+#SERVICE 1:0:1:429C:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eska TV
+#SERVICE 1:0:1:4293:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Music HD
+#SERVICE 1:0:1:429A:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:POLO TV
+#SERVICE 1:0:1:1C8C:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:DISCO POLO MUSIC
+#SERVICE 1:0:1:4298:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:VOX MUSIC TV
+#SERVICE 1:0:19:290D:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:ESKA TV EXTRA
+#SERVICE 1:0:1:4299:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:ESKA ROCK TV
+#SERVICE 1:0:1:428D:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:4Fun TV
+#SERVICE 1:0:1:428F:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:4fun Dance
+#SERVICE 1:0:1:427F:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Stars TV
+#SERVICE 1:0:19:1:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:MTV LIVE HD
+#SERVICE 1:0:1:8:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:MTV 00s
+#SERVICE 1:0:1:1CB9:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:MTV ’90
+#SERVICE 1:0:1:192:1518:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:MTV HITS
+#SERVICE 1:0:16:7A:3:40:A00000:0:0:0:plugin.video.polsatbox_go_atv:MTV Club
+#SERVICE 1:0:1:1399:2710:D5:820000:0:0:0:plugin.video.polsatbox_go_atv:MTV ’80
+#SERVICE 1:0:1:429E:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Nowa TV
+#SERVICE 1:0:1:4291:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Zoom TV
+#SERVICE 1:0:1:4:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:360 Tune Box
+#SERVICE 1:0:1:19:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:FashionBox
+#SERVICE 1:0:19:3DD4:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Metro TV
+#SERVICE 1:0:1:1139:2AF8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVP Info
+#SERVICE 1:0:1:4289:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TV Republika
+#SERVICE 1:0:1:3D5A:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:WP PL
+#SERVICE 1:0:1:4279:2BC0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:wPolsce24
+#SERVICE 1:0:19:3B6D:12C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:CNN International
+#SERVICE 1:0:16:7:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Białystok
+#SERVICE 1:0:16:8:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Bydgoszcz
+#SERVICE 1:0:16:9:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Gdańsk
+#SERVICE 1:0:16:A:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Gorzów Wielkopolski
+#SERVICE 1:0:16:B:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Katowice
+#SERVICE 1:0:16:C:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Kielce
+#SERVICE 1:0:16:D:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Kraków
+#SERVICE 1:0:16:E:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Lublin
+#SERVICE 1:0:16:F:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Łódź
+#SERVICE 1:0:16:10:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Olsztyn
+#SERVICE 1:0:16:11:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Opole
+#SERVICE 1:0:16:12:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Poznań
+#SERVICE 1:0:16:13:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Rzeszów
+#SERVICE 1:0:16:14:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Szczecin
+#SERVICE 1:0:16:16:3:2268:EEEE0000:0:0:0:plugin.video.polsatbox_go_atv:TVP3 Wrocław
+#SERVICE 1:0:1:8C8D:DC16:0:860006:0:0:0:plugin.video.polsatbox_go_atv:1+1
+#SERVICE 1:0:1:CA77:91B7:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Kyc Kyc
+#SERVICE 1:0:1:348F:4F04:0:860006:0:0:0:plugin.video.polsatbox_go_atv:X-Sport HD
+#SERVICE 1:0:1:E253:279A:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Star Cinema HD
+#SERVICE 1:0:1:7B09:501E:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Star Family HD
+#SERVICE 1:0:1:3B8A:C02A:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Film UA Drama HD
+#SERVICE 1:0:1:FD7C:A864:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Kvartal TV
+#SERVICE 1:0:1:001F:13F8:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Dacha HD
+#SERVICE 1:0:1:1C8D:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:TV Okazje
+#SERVICE 1:0:1:C0C8:626B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Mango Telezakupy
+#SERVICE 1:0:1:3E27:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:SkyShowtime 1
+#SERVICE 1:0:1:3E28:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:SkyShowtime 2
+#SERVICE 1:0:1:E0FB:3E61:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Świat według Kiepskich
+#SERVICE 1:0:1:64DF:5F29:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Miodowe Lata
+#SERVICE 1:0:1:1691:666B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Ślad
+#SERVICE 1:0:1:6590:85C8:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Sprawiedliwi - Wydział Kryminalny
+#SERVICE 1:0:1:6221:8887:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Policjantki i Policjanci
+#SERVICE 1:0:1:CBD3:2AB0:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Gliniarze
+#SERVICE 1:0:1:0A38:5FB5:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Włatcy móch
+#SERVICE 1:0:1:CB77:50D5:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Chłopaki do wzięcia
+#SERVICE 1:0:1:51ED:C68A:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Nasz nowy dom
+#SERVICE 1:0:1:F447:F858:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Ewa gotuje
+#SERVICE 1:0:1:157F:DCAA:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Daleko od noszy
+#SERVICE 1:0:1:B3EE:1DCE:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Trudne sprawy
+#SERVICE 1:0:1:FD47:2E57:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Dlaczego ja?
+#SERVICE 1:0:1:94D7:A6AB:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Pamiętniki z wakacji
+#SERVICE 1:0:1:67DF:4274:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Komedie
+#SERVICE 1:0:1:5D79:C14D:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Kabarety
+#SERVICE 1:0:1:240B:5501:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Zbrodnie
+#SERVICE 1:0:1:9043:1CB2:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Wielka Rozrywka
+#SERVICE 1:0:1:8384:BA5B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Wielkie festiwale
+#SERVICE 1:0:1:9607:A5ED:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Życiowe historie
+#SERVICE 1:0:19:3DD2:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVN 24
+#SERVICE 1:0:19:3DD6:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVN Fabuła
+#SERVICE 1:0:19:3DCE:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVN Style
+#SERVICE 1:0:19:3DD0:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVN Turbo
+#SERVICE 1:0:1:4239:2F44:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVP Polonia
+#SERVICE 1:0:1:BAD3:3AB7:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Zero
+#SERVICE 1:0:19:1C8A:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Newsmax TV
