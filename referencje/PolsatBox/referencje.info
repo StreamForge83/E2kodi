@@ -23,8 +23,8 @@
 #SERVICE 1:0:1:3E2C:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Sport Extra 4
 #SERVICE 1:0:1:643B:4BAB:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 1
 #SERVICE 1:0:1:85A5:58E8:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 2
-#SERVICE 1:0:1:18:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 3
-#SERVICE 1:0:1:6A:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 4
+#SERVICE 1:0:19:3D:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 3
+#SERVICE 1:0:19:3E:1964:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eurosport 4
 #SERVICE 1:0:1:3D69:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 1
 #SERVICE 1:0:1:3D6A:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 2
 #SERVICE 1:0:1:3D6B:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Eleven Sports 3
