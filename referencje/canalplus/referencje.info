@@ -2,28 +2,29 @@
 #SERVICE 1:0:1F:28:3A2:2268:EEEE0000:0:0:0:plugin.video.canalplus:Alfa TVP
 #SERVICE 1:0:19:377B:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ 360 HD
 #SERVICE 1:0:1F:32DB:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ 4K ULTRA HD
-#SERVICE 1:0:1:13EF:5DC:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ DOMO HD
-#SERVICE 1:0:1:377A:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ DOKUMENT HD
-#SERVICE 1:0:1:3313:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 1 HD
-#SERVICE 1:0:1:37B5:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 2 HD
-#SERVICE 1:0:1:159C:B240:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 3 HD
-#SERVICE 1:0:1:009E:03F4:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 4 HD
-#SERVICE 1:0:1:D8E7:BD08:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 5 HD
-#SERVICE 1:0:1:468B:2494:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 6 HD
-#SERVICE 1:0:1:989D:A7C1:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 7 HD
-#SERVICE 1:0:1:989D:A7C1:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 8 HD
-#SERVICE 1:0:1:468B:2494:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 9 HD
-#SERVICE 1:0:1:D16B:A514:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 10 HD
-#SERVICE 1:0:1:FC6B:198C:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 11 HD
-#SERVICE 1:0:1:3779:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ FILM HD
-#SERVICE 1:0:19:377F:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ KUCHNIA HD
-#SERVICE 1:0:1:32DC:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ PREMIUM HD
-#SERVICE 1:0:19:3782:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SERIALE HD
-#SERVICE 1:0:1:32DE:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL SPORT HD
-#SERVICE 1:0:1:13EE:5DC:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT2 HD
+#SERVICE 1:0:1:13EF:5DC:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ DOMO 
+#SERVICE 1:0:1:377A:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ DOKUMENT 
+#SERVICE 1:0:1:3313:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 1 
+#SERVICE 1:0:1:37B5:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 2 
+#SERVICE 1:0:1:159C:B240:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 3 
+#SERVICE 1:0:1:009E:03F4:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 4 
+#SERVICE 1:0:1:D8E7:BD08:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 5 
+#SERVICE 1:0:1:468B:2494:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 6 
+#SERVICE 1:0:1:989D:A7C1:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 7 
+#SERVICE 1:0:1:989D:A7C1:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 8 
+#SERVICE 1:0:1:468B:2494:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 9 
+#SERVICE 1:0:1:D16B:A514:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 10 
+#SERVICE 1:0:1:FC6B:198C:0:860001:0:0:0:plugin.video.canalplus:CANAL+ EXTRA 11 
+#SERVICE 1:0:1:3779:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ FILM 
+#SERVICE 1:0:19:377F:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ KUCHNIA 
+#SERVICE 1:0:1:32DC:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ PREMIUM 
+#SERVICE 1:0:19:3782:44C:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SERIALE 
+#SERVICE 1:0:1:32DE:190:13E:820000:0:0:0:plugin.video.canalplus:CANAL SPORT 
+#SERVICE 1:0:1:13EE:5DC:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT 2
 #SERVICE 1:0:1:3AA0:514:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT 3
 #SERVICE 1:0:1:3AA1:514:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT 4
-#SERVICE 1:0:1:3AA5:514:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT5 HD
+#SERVICE 1:0:1:3AA5:514:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT 5
+#SERVICE 1:0:1:3AD8:514:13E:820000:0:0:0:plugin.video.canalplus:CANAL+ SPORT 6
 #SERVICE 1:0:1:32E0:190:13E:820000:0:0:0:plugin.video.canalplus:MINIMINI+ HD
 #SERVICE 1:0:19:377E:44C:13E:820000:0:0:0:plugin.video.canalplus:PLANETE+ HD
 #SERVICE 1:0:1:3391:3390:71:820000:0:0:0:plugin.video.canalplus:Polsat HD
