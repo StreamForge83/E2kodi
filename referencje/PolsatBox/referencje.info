@@ -36,7 +36,7 @@
 #SERVICE 1:0:1:3E23:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Golf Zone
 #SERVICE 1:0:1:1B:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:Fast&Fun
 #SERVICE 1:0:1:1E:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:GameToon
-#SERVICE 1:0:1:745F:0D23:0:860006:0:0:0:plugin.video.polsatbox_go_atv:InUltra 4K
+#SERVICE 1:0:11:BEA:20D0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:InUltra 4K
 #SERVICE 1:0:1:3398:3390:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Film
 #SERVICE 1:0:1:3E1F:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Film 2
 #SERVICE 1:0:1:1CAC:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Polsat Seriale
@@ -115,9 +115,9 @@
 #SERVICE 1:0:1:32DF:190:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:National Geographic
 #SERVICE 1:0:1:2907:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Nat Geo People HD
 #SERVICE 1:0:1:EC52:9FBA:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Love Nature 4K
-#SERVICE 1:0:1:1BF2:655B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Travelxp 4K
-#SERVICE 1:0:1:92C2:7E5C:0:860006:0:0:0:plugin.video.polsatbox_go_atv:My Zen 4K
-#SERVICE 1:0:1:C4C6:0C00:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Museum TV 4K
+#SERVICE 1:0:1F:11FB:2B5C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Travelxp 4K
+#SERVICE 1:0:1:11FD:2B5C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:My Zen 4K
+#SERVICE 1:0:1:11FC:2B5C:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Museum TV 4K
 #SERVICE 1:0:1:423D:3DB8:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:Water Planet
 #SERVICE 1:0:1:10:A11A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:DocuBox
 #SERVICE 1:0:1:3D5B:2C88:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:CBS Reality
