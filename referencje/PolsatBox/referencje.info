@@ -212,4 +212,4 @@
 #SERVICE 1:0:19:3DD0:640:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVN Turbo
 #SERVICE 1:0:1:4239:2F44:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:TVP Polonia
 #SERVICE 1:0:1:BAD3:3AB7:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Zero
-#SERVICE 1:0:19:1C8A:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Newsmax TV
+#SERVICE 1:0:1:B991:02CD:0:860030:0:0:0:plugin.video.polsatbox_go_atv:Newsmax TV
