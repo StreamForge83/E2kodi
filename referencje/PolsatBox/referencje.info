@@ -183,10 +183,10 @@
 #SERVICE 1:0:1:FD7C:A864:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Kvartal TV
 #SERVICE 1:0:1:001F:13F8:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Dacha HD
 #SERVICE 1:0:1:1C8D:1CE8:71:820000:0:0:0:plugin.video.polsatbox_go_atv:TV Okazje
-#SERVICE 1:0:1:C0C8:626B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Mango Telezakupy
+#SERVICE 1:0:1:2914:1EDC:71:820000:0:0:0:plugin.video.polsatbox_go_atv:Mango Telezakupy
 #SERVICE 1:0:1:3E27:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:SkyShowtime 1
 #SERVICE 1:0:1:3E28:2EE0:13E:820000:0:0:0:plugin.video.polsatbox_go_atv:SkyShowtime 2
-#SERVICE 1:0:1:E0FB:3E61:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Świat według Kiepskich
+#SERVICE 1:0:1:E:A99A:2268:0:0:0:0:plugin.video.polsatbox_go_atv:Świat według Kiepskich
 #SERVICE 1:0:1:64DF:5F29:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Miodowe Lata
 #SERVICE 1:0:1:1691:666B:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Ślad
 #SERVICE 1:0:1:6590:85C8:0:860006:0:0:0:plugin.video.polsatbox_go_atv:Sprawiedliwi - Wydział Kryminalny
