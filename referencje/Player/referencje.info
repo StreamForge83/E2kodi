@@ -15,13 +15,14 @@
 #SERVICE 1:0:1:F:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Seriale o Kobietach Online
 #SERVICE 1:0:1:10:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Szkoła życia Online
 #SERVICE 1:0:1:11:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Szpitalne Historie Online
-#SERVICE 1:0:1:12:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Talk Show Online
+#SERVICE 1:0:1:99B9:EF38:0:860007:0:0:0:plugin.video.playermb:TVN Talk Show Online
 #SERVICE 1:0:1:13:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Telenowele Online
 #SERVICE 1:0:1:14:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Usterka Online
 #SERVICE 1:0:1:15:A88A:2268:0:0:0:0:plugin.video.playermb:TVN W Domu Online
 #SERVICE 1:0:1:16:A88A:2268:0:0:0:0:plugin.video.playermb:TVN Życie Jak w Bajce Online
+#SERVICE 1:0:1:799E:3695:0:860007:0:0:0:plugin.video.playermb:TVN Puls Życia Online
 #SERVICE 1:0:16:A:3:2268:EEEE0000:0:0:0:plugin.video.playermb:TVP 3 Gorzów
 #SERVICE 1:0:19:3B67:12C:13E:820000:0:0:0:plugin.video.playermb:EUROSPORT 1 HD
 #SERVICE 1:0:19:3B68:12C:13E:820000:0:0:0:plugin.video.playermb:EUROSPORT 2 HD
 #SERVICE 1:0:1:18:A11A:2268:0:0:0:0:plugin.video.playermb:EUROSPORT 3 HD
-#SERVICE 1:0:1:6A:A11A:2268:0:0:0:0:plugin.video.playermb:EUROSPORT 4 HD
+#SERVICE 1:0:1:86DA:30D9:0:860007:0:0:0:plugin.video.playermb:EUROSPORT 4 HD
